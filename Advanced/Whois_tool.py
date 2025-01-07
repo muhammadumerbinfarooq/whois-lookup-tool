@@ -55,4 +55,4 @@ def threaded_whois(domains):
 
 if __name__ == "__main__":
     domains = input("Enter comma-separated domain names: ").split(",")
-    threaded_whois(domains)
+    threaded_whois(domains
