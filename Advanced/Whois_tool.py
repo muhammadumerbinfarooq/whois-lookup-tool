@@ -7,6 +7,7 @@ import json
 import time
 import hashlib
 
+
 # Setup logging
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 
