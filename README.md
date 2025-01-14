@@ -17,7 +17,7 @@ A simple Python tool to fetch and display WHOIS information for domain names.
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/muhammadumermemon/whois-lookup-tool.git
+    git clone https://github.com/muhammadumerbinfarooq/whois-lookup-tool.git
     cd whois-lookup-tool
     ```
 
